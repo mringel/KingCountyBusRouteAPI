@@ -1,13 +1,12 @@
-[![Build Status](https://travis-ci.org/CardinalWolsey/bus_route_mapper_done_right.svg)](https://travis-ci.org/CardinalWolsey/bus_route_mapper_done_right)
 
 # King County Bus Route API
 
-**Spencer Caldwell**
-**Matthew Ringel**
-**Michael Tse**
+**Spencer Caldwell**  
+**Matthew Ringel**  
+**Michael Tse**  
 
-**Code Fellows**
-**sea-d45-javascript**
+**Code Fellows**  
+**sea-d45-javascript**  
 
 This is a project for the JavaScript Full-Stack Development Accelerator at Code Fellows.
 
